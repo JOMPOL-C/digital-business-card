@@ -1,45 +1,47 @@
-# 📌 ระบบสารสนเทศนามบัตรดิจิทัล  
+# 📌 Digital Business Card Information System
 
-โครงงานนี้เป็นส่วนหนึ่งของรายวิชา **การวิเคราะห์และออกแบบระบบ (System Analysis and Design)**  
-วัตถุประสงค์เพื่อฝึกวิเคราะห์ความต้องการ ออกแบบกระบวนการ และสร้างโมเดลเชิงระบบของแอปพลิเคชันจริง  
-
----
-
-## 🎯 สิ่งที่ทำ
-- วิเคราะห์ **Requirement** ของระบบนามบัตรดิจิทัล  
-- ออกแบบ **Data Flow Diagram (DFD)** ครอบคลุม 11 Process  
-- จัดทำ **Data Dictionary** ของกระแสข้อมูลและแหล่งเก็บข้อมูล  
-- ออกแบบ **ER-Diagram** และแปลงเป็น **Relational Database Model**  
-- ทำ **Normalization (1NF → 3NF)**  
-- จัดทำ **UI/UX Mockup** เพื่อแสดงตัวอย่างหน้าจอระบบ และ สร้าง Prototype, Component และ Flow ของผู้ใช้งาน
+This project is part of the course **System Analysis and Design**.  
+Its objective is to practice requirements analysis, process design, and system modeling through a real-world application concept.
 
 ---
 
-## 🔗 ลิงก์ไปยังงานออกแบบ
-👉 [เปิดดูใน Figma](https://www.figma.com/design/dsOon1dN5dF4SriokJSXGg/NAMBUUT-APP-Design?m=auto&t=3IH0oK311WQtjHu1-6)
+## 🎯 Project Scope
+
+- Analyze system **requirements** for a digital business card platform
+- Design **Data Flow Diagrams (DFD)** covering 11 system processes
+- Create a **Data Dictionary** for data flows and data stores
+- Design an **ER Diagram** and convert it into a **Relational Database Model**
+- Perform **Database Normalization (1NF → 3NF)**
+- Design **UI/UX mockups** to demonstrate system screens, including user prototypes, components, and user flows
 
 ---
 
-## 📸 ตัวอย่างหน้าจอ
+## 🔗 Design Resources
+👉 [View on Figma](https://www.figma.com/design/dsOon1dN5dF4SriokJSXGg/NAMBUUT-APP-Design?m=auto&t=3IH0oK311WQtjHu1-6)
 
-### 🔑 การเข้าสู่ระบบ
+---
+
+## 📸 Screen Examples
+
+### 🔑 Login
 ![Login](screenshots/Nambutt_Login.png)
 
-### 🏠 หน้าหลัก
+### 🏠 Home Page
 ![HomePage](screenshots/Nambutt_HomePage.png)
 
-### 👤 โปรไฟล์
+### 👤 Profile
 ![Profile](screenshots/Nambutt_Profile.png)
 
-### 💬 แชท + การมาร์คแชท
+### 💬 Chat & Chat Pinning
 ![Chat](screenshots/Nambutt_Chat.png)
 
 ---
+
 ## 🛠️ Tools
-- Draw.io / Lucidchart (สำหรับ DFD & ERD)
+- Draw.io / Lucidchart (for DFD & ERD)
 - Figma
 
 ---
 
-## 📄 เอกสารโครงการ
-- [Nambutt.pdf](Nambutt.pdf)  
+## 📄 Project Documentation
+- [Nambutt.pdf](Nambutt.pdf)
